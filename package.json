@@ -1,0 +1,18 @@
+{
+  "name": "book-collection",
+  "version": "1.0.0",
+  "description": "Assignment Express js (Module 6)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Md. Miraz Uddin",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
